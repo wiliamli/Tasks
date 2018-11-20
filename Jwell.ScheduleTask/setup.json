@@ -1,0 +1,6 @@
+﻿{
+  "sign": "Jwell.ScheduleTask",
+  "version": "1.0.0.0",
+  "number": "365349B42838426A9B90CDDA9590F95D",
+  "environment": "test" //test,qa,gray,product
+}
